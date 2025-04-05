@@ -17,5 +17,5 @@ Click the **Fork** button in the upper right corner to create a copy of this rep
 
 # 2. Clone Repo 
 Open a terminal and run: 
--git clone https://github.com/YOUR-GITHUB-USERNAME/git-practice-assignment.git
+-git clone https://github.com/ngbaochau/git-practice-assignment.git
 -cd git-practice-assignment
